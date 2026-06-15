@@ -1,0 +1,11 @@
+{
+  "name": "waitline-marketplace",
+  "owner": { "name": "WaitLine", "url": "https://getwaitline.com" },
+  "plugins": [
+    {
+      "name": "waitline",
+      "source": "./",
+      "description": "Sponsored wait-line for Claude Code. Revenue-shared with the developer."
+    }
+  ]
+}

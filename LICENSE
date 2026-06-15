@@ -1,0 +1,24 @@
+WaitLine Plugin License (Proprietary)
+
+Copyright (c) 2026 WaitLine. All rights reserved.
+
+This software (the "Plugin") is made available solely to let end users run it
+with Claude Code. Permission is granted to download and execute the Plugin for
+that purpose only.
+
+You may NOT, without prior written permission from WaitLine:
+  - copy, redistribute, republish, sublicense, sell, or host the Plugin or any
+    part of it;
+  - modify the Plugin or create derivative works from it;
+  - reverse engineer, decompile, deobfuscate, or otherwise attempt to derive the
+    source form of the bundled code, except to the limited extent that such a
+    restriction is prohibited by applicable law;
+  - use the Plugin, its name, or its trademarks to build or promote a competing
+    or substantially similar service.
+
+THE PLUGIN IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN
+AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE PLUGIN OR THE USE OR OTHER DEALINGS IN THE PLUGIN.
