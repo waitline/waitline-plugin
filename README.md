@@ -14,9 +14,17 @@ Claude thinks. No popups, no tracking pixels, no noise.
 
 ## Install
 
+One line in your terminal:
+
 ```
-/plugin marketplace add waitline/waitline-plugin
-/plugin install waitline@waitline-marketplace
+curl -fsSL https://getwaitline.com/install.sh | sh
+```
+
+That just runs Claude Code's own plugin CLI — you can run these directly instead:
+
+```
+claude plugin marketplace add waitline/waitline-plugin
+claude plugin install waitline@waitline-marketplace
 ```
 
 Then activate it (you'll be shown exactly what will be written to
@@ -32,14 +40,15 @@ your next Claude Code session.
 ## Earn
 
 By default impressions accrue to this machine anonymously. To attribute them to
-your real account (earnings follow you across machines) and to cash out:
+your real account (earnings follow you across machines) and cash out:
 
 ```
 /waitline:signin
 ```
 
-This pairs the machine with your WaitLine account via a browser approval, then
-merges any earnings already accrued on this machine into your account.
+This prints a single sign-in link. Open it, sign in with Google, and you're done —
+no code to enter, nothing to wait for. The server then merges this machine's
+earnings (before and after) into your account.
 
 ## Commands
 
