@@ -1,8 +1,11 @@
 {
   "name": "waitline",
   "description": "Turns the Claude Code wait/idle line into a single tasteful sponsored slot. Revenue-shared with the developer. Activates via explicit /waitline:setup consent.",
-  "version": "0.1.1",
-  "author": { "name": "WaitLine", "url": "https://getwaitline.com" },
+  "version": "0.1.2",
+  "author": {
+    "name": "WaitLine",
+    "url": "https://getwaitline.com"
+  },
   "homepage": "https://getwaitline.com",
   "license": "LicenseRef-Proprietary"
 }
